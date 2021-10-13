@@ -1,0 +1,9 @@
+class calculator:
+    def add(self,first,second):
+        return first+second
+    def sub(self,first,second):
+        return first-second
+    def mul(self,first,second):
+        return first*second
+    def div(self,first,second):
+        return first/second
